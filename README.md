@@ -35,7 +35,7 @@ Step 4: Training Data Visualization
 
 I used Matplotlib to make a 3D scatter plot in order to obtain insight into the distribution of my training data in the feature space. The data points were color-coded according to their associated labels ('POP'), and the three axes ('Dnu', 'numax', and 'epsilon') reflected my features.
 
-![Alt text](https://github.com/robbytbg/Port2/blob/main/Machine%20Learning/3D_viz.PNG)
+![Alt text](https://github.com/robbytbg/Asteroseismology-Classification/blob/main/3D_viz.PNG)
 
 Step 5: Assessing the Model
 
